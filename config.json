@@ -1,0 +1,18 @@
+{
+  "dayTime": "1",
+  "delivery": "5",
+  "buttonStorage": "60",
+  "armStorage": "40",
+  "legStorage": "36",
+  "bodStorage": "15",
+  "buttonsIP": "1",
+  "armsIP": "1",
+  "legsIP": "1",
+  "bodIP": "1",
+  "buttonsMP": "4",
+  "armsMP": "5",
+  "legsMP": "4",
+  "bodMP": "4",
+  "initAss": "1",
+  "maxAss": "5"    
+}
