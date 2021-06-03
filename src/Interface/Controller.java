@@ -1,8 +1,7 @@
 
 package Interface;
 
-import ControlCenter.InterfaceUpdater;
-import ControlCenter.InterfaceUpdater;
+
 import Pana.Factory;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;

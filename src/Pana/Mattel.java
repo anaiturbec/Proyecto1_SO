@@ -5,12 +5,12 @@
  */
 package Pana;
 import Interface.Controller;
-import Interface.JSONreader;
+import Interface.JSONr;
 
 public class Mattel {
     
     public Mattel(){
-        JSONreader  json = new JSONreader();
+        JSONr  json = new JSONr();
     }
    
     public static void main(String[] args) {
