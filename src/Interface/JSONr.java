@@ -1,9 +1,7 @@
 package Interface;
 
-import Interface.Controller;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import static java.lang.Integer.parseInt;
 import javax.swing.JOptionPane;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;

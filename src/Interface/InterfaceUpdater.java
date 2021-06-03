@@ -6,10 +6,8 @@
 package Interface;
 import Pana.Factory;
 import Pana.Boss;
-import Interface.ControlPanel;
 import Pana.Manager;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+
 
 
 public class InterfaceUpdater extends Thread{

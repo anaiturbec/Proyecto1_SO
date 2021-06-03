@@ -3,9 +3,7 @@ package Interface;
 
 
 import Pana.Factory;
-import javax.swing.JFrame;
-import javax.swing.JOptionPane;
-import Interface.ControlPanel;
+
 
 public class Controller {
     public Factory factory;

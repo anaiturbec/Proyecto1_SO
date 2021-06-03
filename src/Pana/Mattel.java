@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package Pana;
-import Interface.Controller;
 import Interface.JSONr;
 
 public class Mattel {
